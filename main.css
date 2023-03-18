@@ -1,0 +1,97 @@
+body{
+    background-color: #161515;
+    color: #ffffff;
+    text-align: center;
+}
+
+.tasklists h2{
+    font-family: papyrus;
+}
+
+header h1{
+    font-family: papyrus;
+}
+
+#inputo{
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+    font-family: Ink Free;
+    font-size: 20px;
+}
+
+#submittask{
+    padding: 15px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    /* border-radius: 10px; */
+}
+
+#submittask:hover{
+    border: 2px solid white;
+    color: #ffffff;
+    background-color: #161515;
+}
+
+.tasklists h2{
+    margin-top: 50px;
+}
+
+#input-content{
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+}
+
+.edit{
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: none;
+    margin: 20px 20px;
+}
+
+.text{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.edit:hover{
+    border: 2px solid white;
+    color: #ffffff;
+    background-color: #161515;
+}
+
+.delete{
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.delete:hover{
+    border: 2px solid white;
+    color: #ffffff;
+    background-color: #161515;
+}
+
+.task{
+    padding: 20px 20px;
+}
+
